@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "YOUTUBE CLONE ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I spearheaded the development of a YouTube clone, a comprehensive video-sharing platform, showcasing my proficiency in full-stack web development. Leveraging cutting-edge technologies, the project seamlessly replicates the core functionalities of YouTube.",
+    url: "https://github.com/RahaneSayali/youtube-lite",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Pharmacy-Django-Mini-Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I developed a Django-based mini project focused on pharmacy management, showcasing my proficiency in web development. This system efficiently handles key aspects of a pharmacy, including inventory management, prescription tracking, and user authentication.",
+    url: "https://github.com/RahaneSayali/Pharmacy-Django-Mini-Project-master",
   },
   {
-    title: "My Resume Site",
+    title: "Amazon-Clone",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I crafted an Amazon clone, a dynamic e-commerce platform, to showcase my full-stack web development skills. The project mirrors key features of Amazon, providing users with a seamless online shopping experience.",
+    url: "https://github.com/RahaneSayali/Amazon-Clone",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Weather-App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.",
+    url: "https://github.com/RahaneSayali/Weather-App",
   },
 ];
 
